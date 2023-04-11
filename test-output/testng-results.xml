@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-10T15:39:51 IST" name="Default suite" finished-at="2023-04-10T15:54:27 IST" duration-ms="876367">
+    <groups>
+    </groups>
+    <test started-at="2023-04-10T15:39:51 IST" name="Default test" finished-at="2023-04-10T15:54:27 IST" duration-ms="876367">
+      <class name="com.ppt.Test_Yatra">
+        <test-method signature="main1()[pri:0, instance:com.ppt.Test_Yatra@66d3eec0]" started-at="2023-04-10T15:39:51 IST" name="main1" finished-at="2023-04-10T15:54:27 IST" duration-ms="876305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main1 -->
+      </class> <!-- com.ppt.Test_Yatra -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
